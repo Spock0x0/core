@@ -12,7 +12,7 @@ public final class Resolver {
 
     private init() {}
     
-    func resolve<Service>(type: Service.Type) -> Service? {
+    public func resolve<Service>(type: Service.Type) -> Service? {
         return Registry.shared.services["\(type)"] as? Service
     }
 }

@@ -29,6 +29,9 @@ final public class CoreManager {
                 
         let pod3Service = myPod3interface.input(for: pod2Service.name, age: pod2Service.age)
         Registry.shared.register(type: MyLibrary3.self, service: pod3Service)
+        
     }
+    
+    
     
 }
