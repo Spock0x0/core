@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyLibrary2",
+        "repositoryURL": "https://github.com/Spock0x0/MyLibrary2.git",
+        "state": {
+          "branch": "main",
+          "revision": "f9bbe247e420bc255215c52581583f0a1fa79493",
+          "version": null
+        }
+      },
+      {
+        "package": "MyLibrary3",
+        "repositoryURL": "https://github.com/Spock0x0/MyLibrary3.git",
+        "state": {
+          "branch": "main",
+          "revision": "b08c3999c00306eb884a47d6477590d2177eef3a",
+          "version": null
+        }
+      },
+      {
+        "package": "MyPod1",
+        "repositoryURL": "https://github.com/Spock0x0/MyPod1.git",
+        "state": {
+          "branch": "main",
+          "revision": "40639269b94b383b8d77b78ee3fa4ba9ca65e428",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
