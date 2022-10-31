@@ -8,7 +8,7 @@
 import Foundation
 
 public final class Resolver {
-    static let shared = Resolver()
+    public static let shared = Resolver()
 
     private init() {}
     
